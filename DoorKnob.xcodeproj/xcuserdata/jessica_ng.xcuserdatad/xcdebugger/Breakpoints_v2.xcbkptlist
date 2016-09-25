@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DoorKnob/ViewController.swift"
+            timestampString = "496511754.105579"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DoorKnob.ViewController.timeLeaving.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "DoorKnob"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessica_ng/all_the_stuff/MHC/other/cpp/ios%20tests/DoorKnob/DoorKnob/ViewController.swift"
+                  timestampString = "496511755.740533"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DoorKnob.ViewController.timeLeaving.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "DoorKnob"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessica_ng/all_the_stuff/MHC/other/cpp/ios%20tests/DoorKnob/DoorKnob/ViewController.swift"
+                  timestampString = "496511755.741468"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DoorKnob.ViewController.init (DoorKnob.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; DoorKnob.ViewController"
+                  moduleName = "DoorKnob"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessica_ng/all_the_stuff/MHC/other/cpp/ios%20tests/DoorKnob/DoorKnob/ViewController.swift"
+                  timestampString = "496511755.742256"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DoorKnob.ViewController.init (DoorKnob.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;DoorKnob.ViewController&gt;"
+                  moduleName = "DoorKnob"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessica_ng/all_the_stuff/MHC/other/cpp/ios%20tests/DoorKnob/DoorKnob/ViewController.swift"
+                  timestampString = "496511755.743146"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
